@@ -1,5 +1,5 @@
 """
-DSCI/CS 372 Final Proj. Implementing a chosen ML technique.
+Implementing a SVM ML technique.
 Part 3. Implement defined ML algorithm and get accuracy.
 
 Author: Julia De Geest
