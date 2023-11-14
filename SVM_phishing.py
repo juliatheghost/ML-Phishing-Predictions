@@ -19,8 +19,7 @@ class SVMClassifier:
 
     def fit(self, X, y):
         """
-        This is the method which will be called to train the model. We can assume that train will
-        only be called one time for the purposes of this project.
+        This is the method which will be called to train the model.
 
         :param X: The samples and features which will be used for training. The data should have
         the shape:
@@ -46,10 +45,6 @@ class SVMClassifier:
         """
         This is the method which will be used to predict the output targets/responses of a given
         list of samples.
-
-        It should rely on mechanisms saved after train(X, y) was called.
-        You can assume that train(X, y) has already been called before this method is invoked for
-        the purposes of this project.
 
         :param X: The samples and features which will be used for prediction. The data should have
         the shape:
