@@ -1,5 +1,5 @@
 """
-DSCI/CS 372 Final Proj. Implementing a chosen ML technique.
+Implementing SVM ML technique.
 Part Two. Define technique for main01.py. Select hyper-parameters.
 
 Author: Julia De Geest
