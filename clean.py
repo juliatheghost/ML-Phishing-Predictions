@@ -1,5 +1,5 @@
 """
-DSCI 372 Final Project. Implementing a chosen ML technique.
+Implementing a SVM ML technique.
 Part One. Import and clean data.
 
 Author: Julia De Geest
